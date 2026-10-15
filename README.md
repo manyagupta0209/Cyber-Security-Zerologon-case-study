@@ -23,3 +23,4 @@ With this plaintext password you can run `restorepassword.py` with the `-hexpass
 ```
 python restorepassword.py testsegment/s2016dc@s2016dc -target-ip 192.168.222.113 -hexpass e6ad4c4f64e71cf8c8020aa44bbd70ee711b8dce2adecd7e0d7fd1d76d70a848c987450c5be97b230bd144f3c3...etc
 ```
+<img width="728" height="455" alt="image" src="https://github.com/user-attachments/assets/aec24ef3-6e14-4c1b-a1b7-979ed8ee0502" />
